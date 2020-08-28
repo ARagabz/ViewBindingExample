@@ -7,4 +7,9 @@
         android:id="@+id/loginFragment"
         android:name="com.ragabz.viewbindingexample.ui.login.LoginFragment"
         android:label="LoginFragment" />
+
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.ragabz.viewbindingexample.ui.login.RegisterFragment"
+        android:label="RegisterFragment" />
 </navigation>
